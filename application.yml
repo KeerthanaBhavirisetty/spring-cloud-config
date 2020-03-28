@@ -1,7 +1,7 @@
 my:
   greeting: Hello My Dear from GIT repo
   list:
-    values: One,Two,Three  Four
+    values: One,Two,Three, Four
 
 db:
   connection: connection-string-here-from-repo
